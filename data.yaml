@@ -1,0 +1,5 @@
+path: C:/GENAI/dataset/vehicle_dataset/
+train: train/images
+val: valid/images
+nc: 4  # Number of classes
+names: ['car', 'truck', 'bus', 'motorcycle']  # Adjust based on your dataset
